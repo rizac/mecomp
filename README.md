@@ -1,4 +1,4 @@
-# Disclaimer: this is an experimental project not yet ready to be cloned or deployed
+# Disclaimer: this is an old experimental project not intended to be cloned and deployed
 For more info, please contact the author
 
 
