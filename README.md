@@ -1,3 +1,7 @@
+# Disclaimer: this is an experimental project not yet ready to be cloned or deployed
+For more info, please contact the author
+
+
 # mecompute
 
 Program to compute Magnitude Energy (Me) from downloaded seismic waveforms:
