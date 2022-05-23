@@ -344,8 +344,9 @@ def main(segment, config):
     v_cost_p = (1. /(15. * pi * v_dens * (v_pwave ** 5)))
     v_cost_s = (1. /(10. * pi * v_dens * (v_swave ** 5)))
     # below I put a factor 2 but ... we don't know yet if it is needed
-    energy = 2 * (v_cost_p + v_cost_s) * corrected_spectrum_int_vel_square
-    me_st = (2./3.) * (np.log10(energy) - 4.4)
+    
+    # FIXME: computing energy as function of v_cost_p, v_cost_s, corrected_spectrum_int_vel_square
+    # abd then me_st as function of energy
 
     # END OF ME COMPUTATION =============================================
 
