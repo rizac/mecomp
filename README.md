@@ -1,5 +1,5 @@
-# Disclaimer: this is an old experimental project not intended to be cloned and deployed
-For more info, please contact the author
+# Disclaimer: this proejct does NOT WORK, it is an an old experimental repository not intended to be cloned and deployed
+We are working on the real code on a separate project. For more info, please contact the author
 
 
 # mecompute
